@@ -1,0 +1,29 @@
+{
+    "TeamA": {
+        "type": "text",
+        "label": "nome team A",
+        "value": "",
+        "group": "Team A"
+    },
+    "PunteggioA": {
+        "type": "number",
+        "label": "punteggio team A",
+        "value": 0,
+        "step":"1",
+        "group": "Team A"
+    },
+        "TeamB": {
+        "type": "text",
+        "label": "nome team B",
+        "value": "",
+        "group": "Team B"
+    },
+    "PunteggioB": {
+        "type": "number",
+        "label": "punteggio team B",
+        "value": 0,
+        "step":"1",
+        "group": "Team B"
+    }
+    
+}
